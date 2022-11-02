@@ -1,0 +1,114 @@
+@media (max-width: 575.98px) {
+  html {
+    font-size: 7px;
+  }
+  .section4 .img img {
+    width: 100%;
+  }
+  .section5 .body {
+    flex-direction: column;
+  }
+  .section2 .cards .middle-card {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+  .section6 .body .img img {
+    width: 100%;
+  }
+  .section6 .body {
+    flex-direction: column;
+  }
+  .section6 .body .content {
+    width: 100%;
+  }
+  .section3 .content img,
+  .section4 .content img,
+  .section6 .body .content img {
+    width: 20%;
+  }
+  .section2 img {
+    width: 10%;
+  }
+  .section6 .body .img {
+    width: 100%;
+  }
+}
+
+@media (min-width: 575.99px) and (max-width: 767.98px) {
+  html {
+    font-size: 10px;
+  }
+  .section4 .img img {
+    width: 100%;
+  }
+  .section5 .body {
+    flex-direction: column;
+  }
+  .section2 .cards .middle-card {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+  .section6 .body .img img {
+    width: 100%;
+  }
+  .section6 .body {
+    flex-direction: column;
+  }
+  .section6 .body .content {
+    width: 100%;
+  }
+  .section6 .body .img {
+    width: 100%;
+  }
+  .section3 .content img,
+  .section4 .content img,
+  .section6 .body .content img {
+    width: 20%;
+  }
+  .section2 img {
+    width: 10%;
+  }
+}
+
+@media (min-width: 767.99px) and (max-width: 991.98px) {
+  html {
+    font-size: 13px;
+  }
+  .section2 .cards .middle-card {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+  }
+  .section5 .body {
+    flex-direction: column;
+  }
+  .section6 .body .content {
+    width: 50%;
+  }
+  .section6 .body .img {
+    width: 50%;
+  }
+}
+
+@media (min-width: 991.99px) and (max-width: 1199.98px) {
+  .section2 .cards .middle-card {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+  }
+}
+
+@media (min-width: 1199.99px) and (max-width: 1399.98px) {
+  .section2 .cards .middle-card {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+  }
+}
+
+@media (min-width: 1399.99px) {
+  html {
+    font-size: 18px;
+  }
+  .section2 .cards .middle-card {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+  }
+}
